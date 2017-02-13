@@ -1,4 +1,4 @@
-	## This is Taiga Integration
+## This is Taiga Integration
 
 I'll be doing something great in this repo
 
